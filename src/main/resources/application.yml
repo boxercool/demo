@@ -1,0 +1,9 @@
+micronaut:
+  application:
+    name: demo
+demo:
+   url: https://test.payu.in/
+   key: XxSjL3
+   Salt: yyUNMrfR
+   paymentPath: _payment
+   
